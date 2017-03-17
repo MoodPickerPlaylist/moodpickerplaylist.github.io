@@ -1,1 +1,1 @@
-# moodplaylistpicker.github.io
+# moodpickerplaylist.github.io
